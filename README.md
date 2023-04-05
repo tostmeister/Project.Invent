@@ -24,7 +24,10 @@
 
 Окна оповещения:
 ![image](https://user-images.githubusercontent.com/112758747/230043877-0ee1f439-4bd4-42dd-b810-3e17faea1fb8.png)
+
 ![image](https://user-images.githubusercontent.com/112758747/230044163-77ea4dfa-dc8f-47d0-a4d8-f448c18a1d26.png)
+
 ![image](https://user-images.githubusercontent.com/112758747/230044242-8b184090-211b-4b9a-b699-6f05ca5c2b63.png)
+
 ![image](https://user-images.githubusercontent.com/112758747/230044527-aeaea47f-903a-4210-a82c-d2cc6823919e.png)
 
