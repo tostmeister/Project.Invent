@@ -23,6 +23,7 @@
 ![image](https://user-images.githubusercontent.com/112758747/230026840-31fbc4cf-019e-454e-9371-3330f13e2e4e.png)
 
 Окна оповещения:
+
 ![image](https://user-images.githubusercontent.com/112758747/230043877-0ee1f439-4bd4-42dd-b810-3e17faea1fb8.png)
 
 ![image](https://user-images.githubusercontent.com/112758747/230044163-77ea4dfa-dc8f-47d0-a4d8-f448c18a1d26.png)
